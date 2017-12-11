@@ -1,5 +1,5 @@
 # Reading-list
-Without reading， the mind will stop。 -- Diderot
+# Without reading， the mind will stop。 -- Diderot
 记录自己读过的一些书。
 1.《蛊惑世界的力量》by[英] 多米尼克·斯特里特费尔德
 2.《人类简史》by[以色列]尤瓦尔·赫拉利
