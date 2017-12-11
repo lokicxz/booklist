@@ -1,7 +1,7 @@
 # Reading-list
-# Without reading， the mind will stop。 -- Diderot
-记录自己读过的一些书。
-1.《蛊惑世界的力量》by[英] 多米尼克·斯特里特费尔德
+## Without reading， the mind will stop。 -- Diderot
+##记录自己读过的一些书。
+###1.《蛊惑世界的力量》by[英] 多米尼克·斯特里特费尔德
 2.《人类简史》by[以色列]尤瓦尔·赫拉利
 3.《Cloud Atlas》（《云图》）by[英】大卫·米切尔
 4.《艾伦·图灵传》by[英】安德鲁·霍奇斯
