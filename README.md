@@ -1,5 +1,5 @@
 # Reading-list
-## Without reading， the mind will stop。 -- Diderot
+## Without
 记录自己读过的一些书。</br>
 42.《秘密》ｂｙ［日］东野圭吾 2018/11/16-2018/11/16</br>
 41.《新参者》ｂｙ［日］东野圭吾 2018/05/27-2018/05/29</br>
